@@ -1,5 +1,5 @@
 Concepts: JavaScript React Framework
 
-Tools: Visual Studios
+Tools: Visual Studio Code
 
 Languages: JavaScript, js.React
