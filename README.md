@@ -2,4 +2,4 @@ Concepts: JavaScript React Framework
 
 Tools: Visual Studio Code
 
-Languages: JavaScript, js.React
+Languages: JavaScript, js.React, CSS
